@@ -1,0 +1,28 @@
+﻿  stdafx.cpp
+  Backpack.cpp
+c:\users\ajgri\source\repos\shopsystem v1\rpggameclass\backpack.cpp(9): warning C4018: '<': signed/unsigned mismatch
+c:\users\ajgri\source\repos\shopsystem v1\rpggameclass\backpack.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\ajgri\source\repos\shopsystem v1\rpggameclass\backpack.cpp(151): warning C4018: '<': signed/unsigned mismatch
+c:\users\ajgri\source\repos\shopsystem v1\rpggameclass\backpack.cpp(176): warning C4018: '>': signed/unsigned mismatch
+c:\users\ajgri\source\repos\shopsystem v1\rpggameclass\backpack.cpp(179): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ajgri\source\repos\shopsystem v1\rpggameclass\backpack.cpp(239): warning C4018: '<': signed/unsigned mismatch
+c:\users\ajgri\source\repos\shopsystem v1\rpggameclass\backpack.cpp(264): warning C4018: '>': signed/unsigned mismatch
+c:\users\ajgri\source\repos\shopsystem v1\rpggameclass\backpack.cpp(267): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ajgri\source\repos\shopsystem v1\rpggameclass\backpack.cpp(321): warning C4018: '<': signed/unsigned mismatch
+c:\users\ajgri\source\repos\shopsystem v1\rpggameclass\backpack.cpp(353): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ajgri\source\repos\shopsystem v1\rpggameclass\backpack.cpp(395): warning C4018: '<': signed/unsigned mismatch
+c:\users\ajgri\source\repos\shopsystem v1\rpggameclass\backpack.cpp(422): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ajgri\source\repos\shopsystem v1\rpggameclass\backpack.cpp(497): warning C4018: '<': signed/unsigned mismatch
+  Enemy.cpp
+c:\users\ajgri\source\repos\shopsystem v1\rpggameclass\enemy.cpp(23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Item.cpp
+  NPC.cpp
+  Player.cpp
+c:\users\ajgri\source\repos\shopsystem v1\rpggameclass\player.cpp(30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ajgri\source\repos\shopsystem v1\rpggameclass\player.cpp(73): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ajgri\source\repos\shopsystem v1\rpggameclass\player.cpp(74): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ajgri\source\repos\shopsystem v1\rpggameclass\player.cpp(81): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\ajgri\source\repos\shopsystem v1\rpggameclass\player.cpp(86): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  RPGGameClass.cpp
+  Generating Code...
+  RPGGameClass.vcxproj -> C:\Users\ajgri\source\repos\ShopSystem v1\Debug\RPGGameClass.exe
